@@ -3,6 +3,7 @@ Public Sub removeEmptyColumns()
 Dim lCol As Long
 Dim lRow As Long
 Dim colNum As Long
+
 '**This variable is not longer need. **
 'Dim rowNum As Long
 Dim anyData As Boolean
